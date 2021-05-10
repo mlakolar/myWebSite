@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Luofeng Liao"
+title: "Yuhang Cai"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- luofeng-liao
+- yuhang-cai
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,20 +18,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Prior to graduate school, he received B.S. degree in Computer Science at Fudan University in June 2019. His research interests include high-dimensional statistis and distributed optimization.  Luofeng continued his education as a PhD student at Columbia University.
+bio: Prior to graduate school, he received B.S. degree in Mathematics at Peking University. Yuhang continued his education as a PhD student at University of California, Berkeley.
+
 
 # List each interest with a dash
 interests:
 - Machine Learning
-- Distributed Optimization
+- Optimal Transport
+- High-dimensional inference
 
 education:
   courses:
   - course: MS in Statistics
     institution: University of Chicago
     year: 2021  
-  - course: BS in Computer Science
-    institution: Fudan University
+  - course: BS in Mathematics
+    institution: Peking University
     year: 2019
 
 # Social/Academic Networking
@@ -41,13 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:liaoluofeng96@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Banana1530
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/luofeng-liao-7a1027181/
+  link: 'mailto:willcai754@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -59,4 +55,4 @@ user_groups:
 ---
 
 
- Prior to graduate school, he received B.S. degree in Computer Science at Fudan University in June 2019. His research interests include high-dimensional statistis and distributed optimization.  Luofeng continued his education as a PhD student at Columbia University.
+ Prior to graduate school, he received B.S. degree in Mathematics at Peking University. Yuhang continued his education as a PhD student at University of California, Berkeley.

@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- 
 ---
 
 Yijia Zhao received her MS in Statistics at the University of Chicago. Yijia continued her education as a PhD student at University of California, Los Angeles.

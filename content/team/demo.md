@@ -53,6 +53,11 @@ subtitle = ""
 
 ## Master Students
 
+[Yuhang Cai](/authors/yuhang-cai/) (2020-2021) --- PhD Student University of California, Berkeley   
+[Luofeng Liao](/authors/luofeng-liao/) (2020-2021) --- PhD Student Columbia   
+[Tianheng Huang](https://cam.uchicago.edu/people/profile/tianheng-huang/) (2020-2021) -- FinTech, China   
+[Yuwei Luo](/authors/yuwei-luo/) (2019-2020) --- PhD Student Stanford   
+[Yijia Zhao](/authors/yijia-zhao/) (2019-2020) --- PhD Student UCLA   
 [Sinong Geng](https://www.cs.princeton.edu/~sgeng/) (2017-2019) -- PhD Student Princeton University   
 Yangze Zhou (2017-2018) -- PhD Student Purdue University     
 Siwei Li (2017) -- J.P. Morgan   
