@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Prior to graduate school, he received B.S. degree in Computer Science at Fudan University in June 2019. His research interests include high-dimensional statistis and distributed optimization.  Luofeng continued his education as a PhD student at Columbia University.
+bio: Prior to graduate school, he received B.S. degree in Computer Science at Fudan University in June 2019. His research interests include high-dimensional statistis and distributed optimization.  Luofeng continued his education as a PhD student at Columbia University. His personal website can be found [here](https://banana1530.github.io/luofeng_liao/).
 
 # List each interest with a dash
 interests:

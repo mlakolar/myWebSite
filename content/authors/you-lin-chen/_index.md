@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: PhD (2016-2021)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: You-Lin Chen is currently a statistics PhD candidate at the University of Chicago advised by Mladen Kolar. He pursues his research interests in machine learning, stochastic and non-convex optimization, high-dimensional statistics.
+bio: You-Lin Chen was a statistics PhD candidate at the University of Chicago advised by Mladen Kolar. He pursues his research interests in machine learning, stochastic and non-convex optimization, high-dimensional statistics.
 
 # List each interest with a dash
 interests:
@@ -30,6 +30,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Statistics
+    institution: University of Chicago
+    year: 2021    
   - course: BS in Electrical Engineering
     institution: National Tsing Hua University
     year: 2014
@@ -60,5 +63,10 @@ email: "youlinchen@uchicago.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
+
+You-Lin Chen was a statistics PhD candidate at the University of Chicago advised by Mladen Kolar. He pursues his research interests in machine learning, stochastic and non-convex optimization, high-dimensional statistics.
+
+
+[Personal webpage](https://voices.uchicago.edu/ylchen/)

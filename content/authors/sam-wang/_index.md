@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Post-doc
+role: Post-doc (2018-2021)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sam Wang is currently a post-doc at the University of Chicago Booth School of Business advised by Mladen Kolar. His theoretical and methodological research interests are focused on causal discovery, graphical models, and high-dimensional statistical methods; his applied research interests lie in the social sciences. He completed his PhD in 2018 at the University of Washington advised by Mathias Drton and received his undergraduate degree from Rice University. Prior to embarking on his PhD studies, he worked in management consulting.
+bio: Sam Wang is currently an assistant professor at Cornell University. He was a post-doc at the University of Chicago Booth School of Business advised by Mladen Kolar. His theoretical and methodological research interests are focused on causal discovery, graphical models, and high-dimensional statistical methods; his applied research interests lie in the social sciences. He completed his PhD in 2018 at the University of Washington advised by Mathias Drton and received his undergraduate degree from Rice University. Prior to embarking on his PhD studies, he worked in management consulting.
 
 interests:
 - Causal Discovery
@@ -62,10 +62,10 @@ email: swang24@uchicago.edu
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Sam Wang is currently a post-doc at the University of Chicago Booth School of Business advised by Mladen Kolar. His theoretical and methodological research interests are focused on causal discovery, graphical models, and high-dimensional statistical methods; his applied research interests lie in the social sciences. He completed his PhD in 2018 at the University of Washington advised by Mathias Drton and received his undergraduate degree from Rice University. Prior to embarking on his PhD studies, he worked in management consulting.
+Sam Wang is currently an assistant professor at Cornell University. He was a post-doc at the University of Chicago Booth School of Business advised by Mladen Kolar. His theoretical and methodological research interests are focused on causal discovery, graphical models, and high-dimensional statistical methods; his applied research interests lie in the social sciences. He completed his PhD in 2018 at the University of Washington advised by Mathias Drton and received his undergraduate degree from Rice University. Prior to embarking on his PhD studies, he worked in management consulting.
 
 
 [Personal Website](http://ysamuelwang.com/)

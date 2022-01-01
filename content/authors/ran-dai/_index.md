@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Statistics
+    institution: University of Chicago
+    year: 2020  
   - course: MS in Statistics
     institution: University of Chicago
     year: 2016

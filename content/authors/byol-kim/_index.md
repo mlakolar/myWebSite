@@ -10,18 +10,27 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: PhD (2016-2021)
 
 # Organizations/Affiliations
 organizations:
 - name: Department of Statistics, the University of Chicago
   url: "https://stat.uchicago.edu"
 
+
+bio: Byol is currently a post-doc at University of Washington.
+
 # List each interest with a dash
 interests:
 - distribution-free inference
 - graphical model
 - high-dimensional statistics
+
+education:
+  courses:
+  - course: PhD in Statistics
+    institution: University of Chicago
+    year: 2021    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,7 +42,7 @@ social:
   link: 'mailto:byolkim@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/byolkim
+  link: http://linkedin.com/in/byolkim
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -44,5 +53,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
+
+Byol is currently a post-doc at University of Washington.

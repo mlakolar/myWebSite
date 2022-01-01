@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: PhD (2016-2021)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: https://stat.uchicago.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sen Na is a PhD student in the Department of Statistics at The University of Chicago. Prior to graduate school, he obtained BS in mathematics at Nanjing University, China. His research interests lie in nonlinear and nonconvex optimization, dynamic programming, high-dimensional statistics and their interface.
+bio: Sen Na was a PhD student in the Department of Statistics at The University of Chicago. Prior to graduate school, he obtained BS in mathematics at Nanjing University, China. His research interests lie in nonlinear and nonconvex optimization, dynamic programming, high-dimensional statistics and their interface.
 
 # List each interest with a dash
 interests:
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Statistics
+    institution: University of Chicago
+    year: 2021    
   - course: BS in Mathematics
     institution: Nanjing University
     year: 2016
@@ -64,7 +67,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
 
-Sen Na is a PhD student in the Department of Statistics at The University of Chicago. Prior to graduate school, he obtained BS in mathematics at Nanjing University, China. His research interests lie in nonlinear and nonconvex optimization, dynamic programming, high-dimensional statistics and their interface.
+Sen Na was a PhD student in the Department of Statistics at The University of Chicago. Prior to graduate school, he obtained BS in mathematics at Nanjing University, China. His research interests lie in nonlinear and nonconvex optimization, dynamic programming, high-dimensional statistics and their interface.
+
+[Personal webpage](https://www.stat.uchicago.edu/~senna/home.html)
