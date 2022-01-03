@@ -18,7 +18,7 @@ organizations:
   url:
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Panagiotis (Panos) Toulis studies causal inference in complex settings (e.g., networks) using methods of structured inference, such as permutation tests. He is also interested in the interface of statistics and optimization, particularly in inference problems on large data sets through stochastic gradient descent.
 
 # List each interest with a dash
 interests:
@@ -51,5 +51,7 @@ highlight_name: false
 user_groups:
 -
 ---
+
+Panagiotis (Panos) Toulis studies causal inference in complex settings (e.g., networks) using methods of structured inference, such as permutation tests. He is also interested in the interface of statistics and optimization, particularly in inference problems on large data sets through stochastic gradient descent.
 
 [Personal website](https://www.ptoulis.com/)
