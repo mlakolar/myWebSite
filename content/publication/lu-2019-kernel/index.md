@@ -11,7 +11,7 @@ publication_types:
 - '2'
 abstract: ''
 featured: true
-publication: '*Journal of the American Statistical Association*'
+publication: '*Journal of the American Statistical Association 115(532)*'
 doi: 10.1080/01621459.2019.1689984
 links:
 - name: arXiv
