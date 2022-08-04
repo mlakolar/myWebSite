@@ -52,3 +52,6 @@ email: qiush@umich.edu
 user_groups:
 - Researchers
 ---
+
+
+[Personal Website](https://shq-ml.github.io/)
