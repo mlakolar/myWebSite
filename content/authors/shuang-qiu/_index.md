@@ -29,12 +29,6 @@ education:
   - course: PhD in Computer Science
     institution: University of Michigan
     year: 2021
-  - course: MS in Computer Science
-    institution: Institute of Automation, Chinese Academy of Sciences
-    year: 2015
-  - course: BA in Automation
-    institution: University of Science and Technology Beijing
-    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,3 +52,6 @@ email: qiush@umich.edu
 user_groups:
 - Researchers
 ---
+
+
+[Personal Website](https://shq-ml.github.io/)
