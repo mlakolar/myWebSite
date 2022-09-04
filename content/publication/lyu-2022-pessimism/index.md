@@ -55,12 +55,12 @@ abstract: 'Dynamic mechanism design has garnered significant attention from both
   dynamic mechanism design without assuming uniform coverage.'
 publication: '*Proceedings of the 39th International Conference on Machine Learning (ICML) 2022*'
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2205.02450
 - name: PDF
   url: https://proceedings.mlr.press/v162/lyu22b/lyu22b.pdf
-- name: Slides
-  url: https://icml.cc/media/icml-2022/Slides/17344.pdf
 - name: Video
   url: https://icml.cc/virtual/2022/spotlight/17344
+- name: Slides
+  url: https://icml.cc/media/icml-2022/Slides/17344.pdf
+- name: arXiv
+  url: https://arxiv.org/abs/2205.02450  
 ---

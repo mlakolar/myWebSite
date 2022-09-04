@@ -14,7 +14,7 @@ initialization, the “liminf” of the KKT residuals converges to zero almost s
 analysis further develop the prior work Na et al. (2021) by allowing nonlinear inequality constraints.
 We demonstrate the performance of the algorithm on a subset of nonlinear problems collected in
 the CUTEst test set."
-featured: true
+featured: false
 publication: "*Technical report*"
 tags: ["math.OC", "cs.LG", "cs.NA", "math.NA", "stat.ML"]
 url_preprint: https://arxiv.org/abs/2109.11502
