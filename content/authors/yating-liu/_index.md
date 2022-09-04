@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: MS Student (2021-2022)
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Statistics
+    institution: University of Chicago
+    year: present   
   - course: MS in Statistics
     institution: University of Chicago
     year: 2022  
@@ -53,5 +56,5 @@ email: "yatingliu@uchicago.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- PhD Students
 ---

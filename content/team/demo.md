@@ -53,6 +53,8 @@ subtitle = ""
 
 ## Master Students
 
+[Heming Liu](/authors/heming-liu/) (2020-2022) --- PhD Student Northwestern University  
+[Miao Li](/authors/miao-li/) (2021-2022) --- Argonne National Lab   
 [Yuhang Cai](/authors/yuhang-cai/) (2020-2021) --- PhD Student University of California, Berkeley   
 [Luofeng Liao](/authors/luofeng-liao/) (2020-2021) --- PhD Student Columbia   
 [Tianheng Huang](https://cam.uchicago.edu/people/alumni/) (2020-2021) -- FinTech, China   

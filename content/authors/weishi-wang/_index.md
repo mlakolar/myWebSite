@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Heming Liu"
+title: "Weishi Wang"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- heming-liu
+- weishi-wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: MS Student (2020-2022)
+role: MS Student (2021-2023)
 
 # Organizations/Affiliations
 organizations:
@@ -23,17 +23,17 @@ bio:
 
 # List each interest with a dash
 interests:
-- High-dimensional estimation
-- Graphical models
+- Probabilistic graphical models
 
 education:
   courses:
   - course: MS in Statistics
     institution: University of Chicago
-    year: 2022  
-  - course: BS in Mathematics and Statistics
-    institution: Penn State University
-    year: 2020
+    year: 2023  
+  - course: BS in Data Science
+    institution: Fudan University
+    year: 2021
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,16 +42,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:heming310@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/heming-liu-5aa7731a8/
+  link: 'mailto:weishi@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "weishi@uchicago.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- Master Students
 ---

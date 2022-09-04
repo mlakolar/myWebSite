@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Researcher
+role: Researcher (2021-2022)
 
 # Organizations/Affiliations
 organizations:
@@ -50,5 +50,5 @@ email: "miaol1@uchicago.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- 
 ---
