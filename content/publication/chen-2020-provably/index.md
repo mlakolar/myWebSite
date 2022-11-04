@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Provably Training Neural Network Classifiers under Fairness Constraints
+title: Provably training overparameterized neural network classifiers with non-convex
+  constraints
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +14,7 @@ tags:
 - cs.LG
 - math.OC
 categories: []
-date: '2020-12-01'
+date: '2022-12-01'
 lastmod: 2022-01-04T15:10:34-06:00
 featured: false
 draft: false
@@ -32,24 +33,23 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-04T21:10:33.677721Z'
+publishDate: '2022-11-04T15:10:20.138737Z'
 publication_types:
-- '3'
-abstract: Training a classifier under fairness constraints has gotten increasing attention
-  in the machine learning community thanks to moral, legal, and business reasons.
-  However, several recent works addressing algorithmic fairness have only focused
-  on simple models such as logistic regression or support vector machines due to non-convex
-  and non-differentiable fairness criteria across protected groups, such as race or
-  gender. Neural networks, the most widely used models for classification nowadays,
-  are precluded and lack theoretical guarantees. This paper aims to fill this missing
-  but crucial part of the literature of algorithmic fairness for neural networks.
-  In particular, we show that overparametrized neural networks could meet the fairness
-  constraints. The key ingredient of building a fair neural network classifier is
-  establishing no-regret analysis for neural networks in the overparameterization
-  regime, which may be of independent interest in the online learning of neural networks
-  and related applications.
-publication: '*Technical Report*'
+- '2'
+abstract: Training a classifier under non-convex constraints has gotten increasing
+  attention in the machine learning community thanks to its wide range of applications
+  such as algorithmic fairness and class-imbalanced classification. However, several
+  recent works addressing non-convex constraints have only focused on simple models
+  such as logistic regression or support vector machines. Neural networks, one of
+  the most popular models for classification nowadays, are precluded and lack theoretical
+  guarantees. In this work, we show that overparameterized neural networks could achieve
+  a near-optimal and near-feasible solution of non-convex constrained optimization
+  problems via the project stochastic gradient descent. Our key ingredient is the
+  no-regret analysis of online learning for neural networks in the overparameterization
+  regime, which may be of independent interest in online learning applications.
+publication: '*Electronic Journal of Statistics 16(2)*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2012.15274
+doi: 10.1214/22-EJS2036
 ---
