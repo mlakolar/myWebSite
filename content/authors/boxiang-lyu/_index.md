@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  
+bio:  "Boxiang is a PhD student in the Econometrics and Statistics dissertation area at University of Chicago Booth School of Business. Prior to coming to Booth, he obtained a Master of Science in Machine Learning (2019) and a Bachelor of Science in Statistics and Machine Learning (2018) from Carnegie Mellon University."
 
 # List each interest with a dash
 interests:
