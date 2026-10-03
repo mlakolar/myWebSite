@@ -10,3 +10,5 @@ github.com/HugoBlox/kit/modules/slides v0.0.0-20260330182742-6a2f1ba2aeb5 h1:Ko2
 github.com/HugoBlox/kit/modules/slides v0.0.0-20260330182742-6a2f1ba2aeb5/go.mod h1:/XTQAtd2KCiwg/GVMAoSzKPf/DYPVbAAEysmBdWgYu4=
 github.com/HugoBlox/kit/modules/slides v1.3.0 h1:jMvtb0dtbXpN7PFol/sLt99ITJlVu8fFls5ZSnrIl7M=
 github.com/HugoBlox/kit/modules/slides v1.3.0/go.mod h1:/XTQAtd2KCiwg/GVMAoSzKPf/DYPVbAAEysmBdWgYu4=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20211231133358-6d4989f90f7a/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20211231133358-6d4989f90f7a/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=

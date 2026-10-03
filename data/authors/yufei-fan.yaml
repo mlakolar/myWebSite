@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: yufei-fan
+name:
+  display: Yufei Fan
+  given: Yufei
+  family: Fan
+role: PhD Student
+affiliations:
+- name: University of Southern California Marshall School of Business
+  url: https://www.marshall.usc.edu/departments/data-sciences-and-operations
+user_groups:
+- PhD Students

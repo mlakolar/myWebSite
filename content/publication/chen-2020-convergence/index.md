@@ -12,7 +12,7 @@ authors:
 tags:
 - math.OC
 categories: []
-date: '2020-06-01'
+date: 2024-01-01
 lastmod: 2022-01-04T15:29:21-06:00
 featured: false
 draft: false
@@ -32,7 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-01-04T21:29:21.521160Z'
-publication_types: ["article"]
+publication_types: ["article-journal"]
 abstract: "We study the convergence of accelerated stochastic gradient descent for\
   \ strongly convex objectives under the growth condition, which states that the variance\
   \ of stochastic gradient is bounded by a multiplicative part that grows with the\
@@ -50,8 +50,14 @@ abstract: "We study the convergence of accelerated stochastic gradient descent f
   \ allows the accelerated rates of ADAM and iADAM to nearly attain the theoretical\
   \ lower bound (up to a logarithmic factor in the variance term)."
 publication:
-  name: "Technical report"
+  name: "Mathematics of Operations Research"
+  volume: "49"
+  issue: "4"
+  pages: "2492\u20132526"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2006.06782
+hugoblox:
+  ids:
+    doi: "10.1287/moor.2021.0293"
 ---

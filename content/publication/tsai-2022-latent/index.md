@@ -14,7 +14,7 @@ tags:
 - cs.LG
 - stat.ML
 categories: []
-date: '2022-10-31'
+date: 2024-01-01
 lastmod: 2022-11-01T11:31:54-05:00
 featured: false
 draft: false
@@ -34,7 +34,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-11-01T16:31:48.789246Z'
-publication_types: ["article"]
+publication_types: ["article-journal"]
 abstract: Joint multimodal functional data acquisition, where functional data from
   multiple modes are measured simultaneously from the same subject, has emerged as
   an exciting modern approach enabled by recent engineering breakthroughs in the neurological
@@ -54,8 +54,14 @@ abstract: Joint multimodal functional data acquisition, where functional data fr
   of the brain. We present simulation and empirical results that support the benefits
   of joint estimation.
 publication:
-  name: "Technical report"
+  name: "Journal of the American Statistical Association"
+  volume: "119"
+  issue: "547"
+  pages: "2217\u20132229"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2210.17237
+hugoblox:
+  ids:
+    doi: "10.1080/01621459.2023.2252142"
 ---

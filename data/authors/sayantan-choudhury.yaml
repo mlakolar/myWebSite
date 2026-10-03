@@ -1,0 +1,27 @@
+schema: hugoblox/author/v1
+slug: sayantan-choudhury
+name:
+  display: Sayantan Choudhury
+  given: Sayantan
+  family: Choudhury
+role: Post-doc (2025-2026)
+bio: Sayantan Choudhury was a postdoctoral researcher at Mohamed bin Zayed University of Artificial
+  Intelligence, hosted by Martin Takáč and Mladen Kolar. He received his PhD in Applied Mathematics and
+  Statistics from Johns Hopkins University. His research is in machine learning and optimization,
+  including large-scale and adaptive optimization, federated learning, and min-max problems.
+
+
+  [Personal webpage](https://isayantan.github.io/)
+affiliations:
+- name: Mohamed bin Zayed University of Artificial Intelligence
+  url: https://mbzuai.ac.ae/
+links:
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=GLU9vEsAAAAJ
+- icon: brands/github
+  url: https://github.com/isayantan
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/sayantan-choudhury-jhu/
+user_groups:
+- Alumni
+graduation_year: 2026

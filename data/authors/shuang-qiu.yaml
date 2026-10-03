@@ -4,7 +4,7 @@ name:
   display: Shuang Qiu
   given: Shuang
   family: Qiu
-role: Post-doc (2021-)
+role: Post-doc (2021-2023)
 bio: '[Personal Website](https://shq-ml.github.io/)'
 affiliations:
 - name: University of Chicago Booth School of Business
@@ -20,4 +20,5 @@ education:
   institution: University of Michigan
   year: 2021
 user_groups:
-- Researchers
+- Alumni
+graduation_year: 2023

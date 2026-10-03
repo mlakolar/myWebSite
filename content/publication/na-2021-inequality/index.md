@@ -1,9 +1,9 @@
 ---
 title: "Inequality Constrained Stochastic Nonlinear Optimization via Active-Set Sequential Quadratic Programming"
-date: 2021-09-01
+date: 2023-01-01
 publishDate: 2022-01-02T21:36:18.306369Z
 authors: ["Sen Na", "Mihai Anitescu", "Mladen Kolar"]
-publication_types: ["article"]
+publication_types: ["article-journal"]
 abstract: "We study nonlinear optimization problems with stochastic objective and deterministic equality and
 inequality constraints, which emerge in numerous applications including finance, manufacturing,
 power systems and, recently, deep neural networks. We propose an active-set stochastic sequential
@@ -16,9 +16,15 @@ We demonstrate the performance of the algorithm on a subset of nonlinear problem
 the CUTEst test set."
 featured: false
 publication:
-  name: "Technical report"
+  name: "Mathematical Programming"
+  volume: "202"
+  issue: "1"
+  pages: "279\u2013353"
 tags: ["math.OC", "cs.LG", "cs.NA", "math.NA", "stat.ML"]
 links:
 - type: preprint
   url: "https://arxiv.org/abs/2109.11502"
+hugoblox:
+  ids:
+    doi: "10.1007/s10107-023-01935-7"
 ---

@@ -25,6 +25,13 @@ sections:
       text: |-
         ## Master Students
 
+        Xiaoran Cheng (2024) --- PhD Student Pennsylvania State University  
+        Tianyu Chen (2023) --- PhD Student UT Austin  
+        [Yuchen Fang](/authors/yuchen-fang/) (2021-2023) --- PhD Student UC Berkeley  
+        [Ilgee Hong](/authors/ilgee-hong/) (2021-2023) --- PhD Student Georgia Institute of Technology  
+        [Simiao Jiao](/authors/simiao-jiao/) (2021-2023) --- PhD Student Duke University  
+        [Weishi Wang](/authors/weishi-wang/) (2021-2023) --- PhD Student University of Michigan  
+        Alan Zhong (2023) --- FinTech  
         [Heming Liu](/authors/heming-liu/) (2020-2022) --- PhD Student Northwestern University  
         [Miao Li](/authors/miao-li/) (2021-2022) --- Argonne National Lab   
         [Yuhang Cai](/authors/yuhang-cai/) (2020-2021) --- PhD Student University of California, Berkeley   

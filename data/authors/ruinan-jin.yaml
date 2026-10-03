@@ -1,0 +1,9 @@
+schema: hugoblox/author/v1
+slug: ruinan-jin
+name:
+  display: Ruinan Jin
+  given: Ruinan
+  family: Jin
+role: Post-doc
+user_groups:
+- Researchers

@@ -4,12 +4,14 @@ name:
   display: Boxin Zhao
   given: Boxin
   family: Zhao
-role: PhD student
+role: PhD (2020-2025)
 bio: |-
-  Boxin Zhao is a PhD student in Econometrics and Statistics at University of Chicago,
+  Boxin Zhao was a PhD student in Econometrics and Statistics at University of Chicago,
   Booth School of Business. His research interests include probabilistic graphical models,
   functional data analysis and distributed learning, with a focus on developing novel
   methodologies with both practical applications and theoretical guarantees.
+
+  [Personal website](https://boxinz17.github.io/)
 affiliations:
 - name: University of Chicago Booth School of Business
 links:
@@ -34,4 +36,5 @@ education:
   institution: Nankai University
   year: 2018
 user_groups:
-- PhD Students
+- Alumni
+graduation_year: 2025

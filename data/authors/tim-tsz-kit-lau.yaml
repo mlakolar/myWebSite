@@ -1,0 +1,24 @@
+schema: hugoblox/author/v1
+slug: tim-tsz-kit-lau
+name:
+  display: Tim Tsz-Kit Lau
+  given: Tim Tsz-Kit
+  family: Lau
+role: Post-doc (2023-2024)
+bio: Tim Tsz-Kit Lau was a postdoctoral principal researcher at the University of Chicago Booth School
+  of Business. He received his PhD in Statistics and Data Science from Northwestern University. His
+  research lies at the intersection of statistics, machine learning and optimization, including
+  optimizer design, batch size strategies and distributed stochastic optimization for large models.
+
+
+  [Personal webpage](https://timlautk.github.io/)
+affiliations:
+- name: University of Chicago Booth School of Business
+links:
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=ElHOvHMAAAAJ
+- icon: brands/github
+  url: https://github.com/timlautk
+user_groups:
+- Alumni
+graduation_year: 2024

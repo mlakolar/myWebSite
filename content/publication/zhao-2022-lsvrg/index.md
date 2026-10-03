@@ -12,7 +12,7 @@ tags:
 - cs.LG
 - math.OC
 categories: []
-date: '2022-01-01'
+date: 2023-01-01
 lastmod: 2022-02-01T11:50:32-06:00
 featured: false
 draft: false
@@ -32,7 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-02-01T17:50:27.958239Z'
-publication_types: ["article"]
+publication_types: ["article-journal"]
 abstract: Stochastic gradient-based optimization methods, such as L-SVRG and its accelerated
   variant L-Katyusha [12], are widely used to train machine learning models. Theoretical
   and empirical performance of L-SVRG and L-Katyusha can be improved by sampling the
@@ -49,7 +49,7 @@ abstract: Stochastic gradient-based optimization methods, such as L-SVRG and its
   of the sampling scheme in Qian et al.[17]. Extensive simulations support our theory
   and the practical utility of the proposed sampling scheme on real data.
 publication:
-  name: "Technical report"
+  name: "Transactions on Machine Learning Research"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2201.13387

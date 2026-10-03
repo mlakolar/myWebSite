@@ -43,14 +43,16 @@ sections:
       title: Contact
       address:
         lines:
-          - Harper Center, Suite 338
-          - 5807 South Woodlawn Ave
-          - Chicago, IL 60637
+          - University of Southern California
+          - Marshall School of Business
+          - BRI 306B
+          - 3670 Trousdale Parkway
+          - Los Angeles, CA 90089-0809
           - United States
-      email: Mladen.Kolar@ChicagoBooth.edu
+      email: mkolar@marshall.usc.edu
       social:
         - icon: brands/twitter
           url: https://twitter.com/mkolar
-      map_url: https://maps.google.com/?q=5807+South+Woodlawn+Ave,+Chicago,+IL+60637
+      map_url: https://maps.google.com/?q=3670+Trousdale+Pkwy,+Los+Angeles,+CA+90089
       show_form: false
 ---
