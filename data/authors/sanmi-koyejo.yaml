@@ -1,0 +1,14 @@
+schema: hugoblox/author/v1
+slug: sanmi-koyejo
+name:
+  display: Sanmi Koyejo
+  given: Sanmi
+  family: Koyejo
+bio: '[Personal website](https://cs.stanford.edu/people/sanmi/)'
+affiliations:
+- name: Stanford University
+links:
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=EaaOeJwAAAAJ
+user_groups:
+- null

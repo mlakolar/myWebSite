@@ -1,0 +1,46 @@
+schema: hugoblox/author/v1
+slug: ming-yu
+name:
+  display: Ming Yu
+  given: Ming
+  family: Yu
+role: PhD (2016-2020)
+bio: |-
+  Ming received his PhD in Econometrics and Statistics at University of Chicago,
+  Booth School of Business in March 2020. His research interests include high
+  dimensional statistical inference, non-convex optimization, and reinforcement
+  learning, with a focus on developing novel methodologies with both practical
+  applications and theoretical guarantees.
+
+  [Personal Website](http://home.uchicago.edu/~ming93/)
+affiliations:
+- name: Citadel Securities
+  url: https://www.citadelsecurities.com/
+links:
+- icon: hero/envelope
+  url: mailto:ming93@uchicago.edu
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?hl=en&user=16pUi4MAAAAJ
+- icon: brands/github
+  url: https://github.com/ming93/
+- icon: brands/linkedin
+  url: https://www.linkedin.com/feed/
+interests:
+- Machine Learning
+- High-dimensional statistical inference
+- Nonconvex optimization
+- Reinforcement learning
+- Network models and information diffusion
+education:
+- degree: PhD in Econometrics and Statistics
+  institution: University of Chicago Booth School of Business
+  year: 2020
+- degree: MS in Statistics
+  institution: University of Chicago
+  year: 2016
+- degree: BS in Mathematics
+  institution: Peking University
+  year: 2014
+user_groups:
+- Alumni
+graduation_year: 2020

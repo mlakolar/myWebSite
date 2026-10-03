@@ -1,0 +1,27 @@
+schema: hugoblox/author/v1
+slug: si-kai-lee
+name:
+  display: Si Kai Lee
+  given: Si Kai
+  family: Lee
+role: RP (2019-2021)
+bio: Sky is a PhD student at Yale.
+affiliations:
+- name: University of Chicago Booth School of Business
+links:
+- icon: hero/envelope
+  url: mailto:sikai.lee@chicagobooth.edu
+- icon: brands/github
+  url: https://github.com/atechnicolorskye
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/sikailee
+education:
+- degree: MS in Computer Science
+  institution: Columbia University
+  year: 2017
+- degree: BEng in Aeronautics and Astronautics
+  institution: University of Southampton
+  year: 2014
+user_groups:
+- Alumni
+graduation_year: 2021

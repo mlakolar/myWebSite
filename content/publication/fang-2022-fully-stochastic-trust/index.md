@@ -35,8 +35,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-11-30T15:15:33.522882Z'
-publication_types:
-- '3'
+publication_types: ["article"]
 abstract: We propose a trust-region stochastic sequential quadratic programming algorithm
   (TR-StoSQP) to solve nonlinear optimization problems with stochastic objectives
   and deterministic equality constraints. We consider a fully stochastic setting,
@@ -56,7 +55,8 @@ abstract: We propose a trust-region stochastic sequential quadratic programming 
   sure convergence guarantee for TR-StoSQP, and illustrate its empirical performance
   on both a subset of problems in the CUTEst test set and constrained logistic regression
   problems using data from the LIBSVM collection.
-publication: '*Technical Report*'
+publication:
+  name: "Technical Report"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2211.15943

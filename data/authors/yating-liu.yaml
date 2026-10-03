@@ -1,0 +1,29 @@
+schema: hugoblox/author/v1
+slug: yating-liu
+name:
+  display: Yating Liu
+  given: Yating
+  family: Liu
+role: PhD Student
+affiliations:
+- name: University of Chicago, Department of Statistics
+links:
+- icon: hero/envelope
+  url: mailto:yatingliu@uchicago.edu
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/yating-liu-882516153/
+interests:
+- High-dimensional estimation
+- Graphical models
+education:
+- degree: PhD in Statistics
+  institution: University of Chicago
+  year: present
+- degree: MS in Statistics
+  institution: University of Chicago
+  year: 2022
+- degree: BS in Mathematics and Statistics
+  institution: Rutgers University
+  year: 2020
+user_groups:
+- PhD Students

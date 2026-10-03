@@ -1,0 +1,30 @@
+# HugoBlox Font Pack
+# https://docs.hugoblox.com
+
+hugoblox:
+  meta:
+    format: "hugoblox-font@1"
+    name: "Wowchemy Classic"
+    vendor: "hugoblox"
+    version: "1.0.0"
+    license: "MIT"
+    description: "Montserrat headings with Roboto body, as in the former Wowchemy minimal theme"
+
+  families:
+    heading: "Montserrat"
+    body: "Roboto"
+    code: "JetBrains Mono"
+
+  weights:
+    heading: [600, 700, 800]
+    body: [400, 500]
+    code: [400]
+
+  leading:
+    heading: 1.15
+    body: 1.6
+    code: 1.5
+
+  tracking:
+    heading: "-0.01em"
+    body: "0"

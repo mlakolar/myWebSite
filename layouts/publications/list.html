@@ -1,0 +1,26 @@
+{{/* Publications archive: all publications on one page, grouped by year (newest first). */}}
+{{ define "main" }}
+
+<div class="max-w-prose mx-auto flex justify-center">
+  <article class="prose prose-slate lg:prose-xl dark:prose-invert">
+    <h1 class="lg:text-6xl">{{ .Title }}</h1>
+    {{ .Content }}
+  </article>
+</div>
+
+{{ $view := .Params.view | default "citation" }}
+
+<div class="flex flex-col items-center px-6 pb-16">
+  {{ partial "functions/render_view" (dict "fragment" "start" "page" . "item" . "view" $view) }}
+
+  {{ range .Pages.GroupByDate "2006" }}
+    <h2 class="text-3xl font-bold text-gray-900 dark:text-white pt-8 pb-2">{{ .Key }}</h2>
+    {{ range $index, $item := .Pages.ByDate.Reverse }}
+      {{ partial "functions/render_view" (dict "page" $item "item" $item "view" $view "index" $index) }}
+    {{ end }}
+  {{ end }}
+
+  {{ partial "functions/render_view" (dict "fragment" "end" "page" . "item" . "view" $view) }}
+</div>
+
+{{ end }}

@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-09-04T02:43:09.712753Z'
-publication_types:
-- '3'
+publication_types: ["article"]
 abstract: We consider the problem of personalized federated learning when there are
   known cluster structures within users. An intuitive approach would be to regularize
   the parameters so that users in the same cluster share similar model weights. The
@@ -42,7 +41,8 @@ abstract: We consider the problem of personalized federated learning when there 
   linear model to theoretically demonstrate that our approach outperforms agents learning
   independently and agents learning a single shared weight. Finally, we demonstrate
   the advantages of our approach using both simulated and real-world data.
-publication: '*Technical report (arXiv:2204.13619)*'
+publication:
+  name: "Technical report (arXiv:2204.13619)"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2204.13619

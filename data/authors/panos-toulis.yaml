@@ -1,0 +1,17 @@
+schema: hugoblox/author/v1
+slug: panos-toulis
+name:
+  display: Panos Toulis
+  given: Panos
+  family: Toulis
+bio: |-
+  Panagiotis (Panos) Toulis studies causal inference in complex settings (e.g., networks) using methods of structured inference, such as permutation tests. He is also interested in the interface of statistics and optimization, particularly in inference problems on large data sets through stochastic gradient descent.
+
+  [Personal website](https://www.ptoulis.com/)
+affiliations:
+- name: University of Chicago Booth School of Business
+links:
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=Tq1gdBUAAAAJ
+user_groups:
+- null

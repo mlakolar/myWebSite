@@ -3,10 +3,14 @@ title: "Post-Regularization Inference for Time-Varying Nonparanormal Graphical M
 date: 2018-01-01
 publishDate: 2020-01-27T20:57:22.569088Z
 authors: ["Junwei Lu", mladen-kolar, "Han Liu"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: ""
 featured: true
-publication: "*Journal of Machine Learning Research*"
-url_pdf: "http://jmlr.org/papers/v18/17-145.html"
-url_code: "https://github.com/mlakolar/ROCKET"
+publication:
+  name: "Journal of Machine Learning Research"
+links:
+- type: pdf
+  url: "http://jmlr.org/papers/v18/17-145.html"
+- type: code
+  url: "https://github.com/mlakolar/ROCKET"
 ---

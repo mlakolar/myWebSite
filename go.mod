@@ -1,8 +1,11 @@
-module github.com/wowchemy/starter-hugo-academic
+module github.com/mlakolar/myWebSite
 
-go 1.15
+go 1.19
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20211231133358-6d4989f90f7a // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20211231133358-6d4989f90f7a // indirect
+	github.com/HugoBlox/kit/modules/blox v0.0.0-20260527025321-61f41d3667f1
+	github.com/HugoBlox/kit/modules/integrations/netlify v1.3.0
+	github.com/HugoBlox/kit/modules/slides v1.3.0
 )
+
+require github.com/HugoBlox/kit/modules/analytics v0.3.2 // indirect

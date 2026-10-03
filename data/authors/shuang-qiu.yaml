@@ -1,0 +1,23 @@
+schema: hugoblox/author/v1
+slug: shuang-qiu
+name:
+  display: Shuang Qiu
+  given: Shuang
+  family: Qiu
+role: Post-doc (2021-)
+bio: '[Personal Website](https://shq-ml.github.io/)'
+affiliations:
+- name: University of Chicago Booth School of Business
+links:
+- icon: hero/envelope
+  url: mailto:qiush@umich.edu
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?hl=en&user=-Z7fY00AAAAJ&view_op=list_works&alert_preview_top_rm=2&sortby=pubdate
+interests:
+- Reinforcement Learning
+education:
+- degree: PhD in Computer Science
+  institution: University of Michigan
+  year: 2021
+user_groups:
+- Researchers

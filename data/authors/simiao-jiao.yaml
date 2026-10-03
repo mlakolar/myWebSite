@@ -1,0 +1,24 @@
+schema: hugoblox/author/v1
+slug: simiao-jiao
+name:
+  display: Simiao Jiao
+  given: Simiao
+  family: Jiao
+role: MS Student (2021-2023)
+affiliations:
+- name: University of Chicago, Department of Statistics
+links:
+- icon: hero/envelope
+  url: mailto:smjiao@uchicago.edu
+interests:
+- Bilevel optimization
+- Federated learning
+education:
+- degree: MS in Statistics
+  institution: University of Chicago
+  year: 2023
+- degree: BS in Information and Computing Science
+  institution: Fudan University
+  year: 2021
+user_groups:
+- Master Students

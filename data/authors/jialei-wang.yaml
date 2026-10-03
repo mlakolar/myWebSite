@@ -1,0 +1,35 @@
+schema: hugoblox/author/v1
+slug: jialei-wang
+name:
+  display: Jialei Wang
+  given: Jialei
+  family: Wang
+role: PhD (2013-2018)
+bio: '[Personal Website](https://jialeiw.github.io/index.html)'
+affiliations:
+- name: Two Sigma
+  url: https://www.twosigma.com/
+links:
+- icon: hero/envelope
+  url: mailto:jialei@cs.uchicago.edu
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=g3t0ihoAAAAJ&hl=en
+- icon: brands/github
+  url: https://github.com/jialeiw
+interests:
+- Statistical Machine Learning
+- Optimization
+- Distributed estimation
+- Distributed optimization
+- Randomized and online methods for optimization
+- Statistics for high-dimensional data
+education:
+- degree: PhD in Computer Science
+  institution: University of Chicago
+  year: 2018
+- degree: B.E. Special Class for the Gifted Young
+  institution: University of Science and Technology of China
+  year: 2011
+user_groups:
+- Alumni
+graduation_year: 2018

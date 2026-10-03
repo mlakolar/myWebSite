@@ -1,0 +1,33 @@
+schema: hugoblox/author/v1
+slug: shengjun-zhai
+name:
+  display: Percy Zhai
+  given: Percy
+  family: Zhai
+role: PhD Student
+affiliations:
+- name: The University of Chicago, Department of Statistics
+links:
+- icon: hero/envelope
+  url: mailto:percysjzhai@uchicago.edu
+- icon: brands/github
+  url: https://github.com/PercyZhai
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/shengjunzhai/
+interests:
+- High-dimensional Statistics
+- Gaussian Graphical Models
+- Functional Graphical Models
+- Machine Learning
+education:
+- degree: PhD in Econometrics and Statistics
+  institution: University of Chicago Booth School of Business
+  year: 2026
+- degree: MS in Statistics
+  institution: University of Chicago
+  year: 2021
+- degree: BS in Physics
+  institution: School for the Gifted Young, University of Science and Technology of China
+  year: 2019
+user_groups:
+- PhD Students

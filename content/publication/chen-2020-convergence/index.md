@@ -32,8 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-01-04T21:29:21.521160Z'
-publication_types:
-- '3'
+publication_types: ["article"]
 abstract: "We study the convergence of accelerated stochastic gradient descent for\
   \ strongly convex objectives under the growth condition, which states that the variance\
   \ of stochastic gradient is bounded by a multiplicative part that grows with the\
@@ -50,7 +49,8 @@ abstract: "We study the convergence of accelerated stochastic gradient descent f
   \ multiplicative noise. Furthermore, we propose a generic tail-averaged scheme that\
   \ allows the accelerated rates of ADAM and iADAM to nearly attain the theoretical\
   \ lower bound (up to a logarithmic factor in the variance term)."
-publication: 'Technical report'
+publication:
+  name: "Technical report"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2006.06782

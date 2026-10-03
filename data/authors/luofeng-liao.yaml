@@ -1,0 +1,31 @@
+schema: hugoblox/author/v1
+slug: luofeng-liao
+name:
+  display: Luofeng Liao
+  given: Luofeng
+  family: Liao
+role: MS Student (2020-2021)
+bio: Prior to graduate school, he received B.S. degree in Computer Science at Fudan University in June
+  2019. His research interests include high-dimensional statistis and distributed optimization.  Luofeng
+  continued his education as a PhD student at Columbia University.
+affiliations:
+- name: University of Chicago, Department of Statistics
+links:
+- icon: hero/envelope
+  url: mailto:liaoluofeng96@gmail.com
+- icon: brands/github
+  url: https://github.com/Banana1530
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/luofeng-liao-7a1027181/
+interests:
+- Machine Learning
+- Distributed Optimization
+education:
+- degree: MS in Statistics
+  institution: University of Chicago
+  year: 2021
+- degree: BS in Computer Science
+  institution: Fudan University
+  year: 2019
+user_groups:
+- null

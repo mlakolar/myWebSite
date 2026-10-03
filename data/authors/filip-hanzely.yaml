@@ -1,0 +1,14 @@
+schema: hugoblox/author/v1
+slug: filip-hanzely
+name:
+  display: Filip Hanzely
+  given: Filip
+  family: Hanzely
+bio: '[Personal Website](https://fhanzely.github.io/index.html)'
+affiliations:
+- name: TTIC
+links:
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=_X0AKjEAAAAJ
+user_groups:
+- null

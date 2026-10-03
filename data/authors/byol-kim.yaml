@@ -1,0 +1,25 @@
+schema: hugoblox/author/v1
+slug: byol-kim
+name:
+  display: Byol Kim
+  given: Byol
+  family: Kim
+role: PhD (2016-2021)
+bio: Byol is currently a post-doc at University of Washington.
+affiliations:
+- name: Department of Statistics, the University of Chicago
+  url: https://stat.uchicago.edu
+links:
+- icon: hero/envelope
+  url: mailto:byolkim@uchicago.edu
+interests:
+- distribution-free inference
+- graphical model
+- high-dimensional statistics
+education:
+- degree: PhD in Statistics
+  institution: University of Chicago
+  year: 2021
+user_groups:
+- Alumni
+graduation_year: 2021

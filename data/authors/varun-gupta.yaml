@@ -1,0 +1,17 @@
+schema: hugoblox/author/v1
+slug: varun-gupta
+name:
+  display: Varun Gupta
+  given: Varun
+  family: Gupta
+role: Associate Professor of Operations Management
+bio: '[Personal webpage](http://home.uchicago.edu/~guptav/index.html)'
+affiliations:
+- name: University of Chicago Booth School of Business
+links:
+- icon: hero/envelope
+  url: mailto:guptav@uchicago.edu
+- icon: academicons/google-scholar
+  url: https://scholar.google.co.in/citations?user=JxNxAzcAAAAJ&hl=en
+user_groups:
+- null

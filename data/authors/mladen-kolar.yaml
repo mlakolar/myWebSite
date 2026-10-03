@@ -1,0 +1,41 @@
+schema: hugoblox/author/v1
+slug: mladen-kolar
+name:
+  display: Mladen Kolar
+  given: Mladen
+  family: Kolar
+is_owner: true
+role: Associate Professor of Econometrics and Statistics
+bio: Mladen Kolar is an Associate Professor of Econometrics and Statistics at the University of Chicago
+  Booth School of Business. His research is focused on high-dimensional statistical methods, graphical
+  models, varying-coefficient models and data mining, driven by the need to uncover interesting and scientifically
+  meaningful structures from observational data.
+affiliations:
+- name: University of Chicago Booth School of Business
+links:
+- icon: hero/envelope
+  url: mailto:Mladen.Kolar@ChicagoBooth.edu
+- icon: brands/twitter
+  url: https://twitter.com/mkolar
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?hl=en&user=9LcxwsMAAAAJ&view_op=list_works&sortby=pubdate
+- icon: brands/github
+  url: https://github.com/mlakolar
+- icon: academicons/cv
+  url: /files/cv.pdf
+interests:
+- Statistical machine learning
+- Probabilistic graphical models
+- Dynamic networks estimation
+- High-dimensional estimation and inference
+- Stochastic optimization with constraints
+- Distributed optimization and federated learning
+education:
+- degree: PhD in Machine Learning
+  institution: Carnegie Mellon University
+  year: 2013
+- degree: Diploma in Computer Engineering
+  institution: University of Zagreb, Faculty of Electrical Engineering and Computing
+  year: 2006
+user_groups:
+- Principal Investigator

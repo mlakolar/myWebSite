@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-04-28T21:50:16.247583Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: We study the matrix completion problem under joint differential privacy
   and develop a non-convex low-rank matrix factorization-based method for solving
   it. Our method comes with strong privacy and utility guarantees, has a linear convergence
@@ -42,7 +41,8 @@ abstract: We study the matrix completion problem under joint differential privac
   improves existing approaches and removes the impractical resampling assumption used
   in the literature. Numerical experiments further demonstrate the superiority of
   our method.
-publication: '*International Conference on Artificial Intelligence and Statistics (AISTATS)*'
+publication:
+  name: "International Conference on Artificial Intelligence and Statistics (AISTATS)"
 links:
 - name: URL
   url: https://proceedings.mlr.press/v206/wang23d.html

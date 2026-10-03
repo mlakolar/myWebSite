@@ -1,0 +1,23 @@
+schema: hugoblox/author/v1
+slug: yuchen-fang
+name:
+  display: Yuchen Fang
+  given: Yuchen
+  family: Fang
+role: MS Student (2021-2023)
+affiliations:
+- name: University of Chicago, Computational and Applied Math
+links:
+- icon: hero/envelope
+  url: mailto:frankycfang@outlook.com
+interests:
+- Nonlinear optimization with constraints
+education:
+- degree: MS in Computational and Applied Math
+  institution: University of Chicago
+  year: 2023
+- degree: BS in Statistics
+  institution: Xiamen University
+  year: 2021
+user_groups:
+- Master Students

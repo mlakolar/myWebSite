@@ -34,10 +34,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-04-28'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: Although parallelism has been extensively used in Reinforcement Learning (RL), the quantitative effects of parallel exploration are not well understood theoretically. We study the benefits of simple parallel exploration for reward-free RL in linear Markov decision processes (MDPs) and two-player zero-sum Markov games (MGs). In contrast to the existing literature, which focuses on approaches that encourage agents to explore over a diverse set of policies, we show that using a single policy to guide exploration across all agents is sufficient to obtain an almost-linear speedup in all cases compared to their fully sequential counterpart. Furthermore, we demonstrate that this simple procedure is near-minimax optimal in the reward-free setting for linear MDPs. From a practical perspective, our paper shows that a single policy is sufficient and provably near-optimal for incorporating parallelism during the exploration phase.
-publication: '*International Conference on Artificial Intelligence and Statistics (AISTATS)*'
+publication:
+  name: "International Conference on Artificial Intelligence and Statistics (AISTATS)"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2205.15891

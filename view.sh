@@ -1,3 +1,6 @@
 #!/usr/bin/env bash
 
-hugo server --disableFastRender 
+# Install Tailwind/Pagefind dependencies on first run.
+[ -d node_modules ] || pnpm install
+
+hugo server --disableFastRender

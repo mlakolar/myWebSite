@@ -7,15 +7,19 @@ authors:
 - Junwei Lu
 - Mladen Kolar
 - Han Liu
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: ''
 featured: true
-publication: '*Journal of the American Statistical Association 115(532)*'
-doi: 10.1080/01621459.2019.1689984
+publication:
+  name: "Journal of the American Statistical Association"
+  volume: "115"
+  issue: "532"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1503.02978
 - name: URL
   url: https://doi.org/10.1080/01621459.2019.1689984
+hugoblox:
+  ids:
+    doi: "10.1080/01621459.2019.1689984"
 ---

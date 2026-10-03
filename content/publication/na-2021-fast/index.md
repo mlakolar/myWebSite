@@ -3,7 +3,7 @@ title: "A Fast Temporal Decomposition Procedure for Long-horizon Nonlinear Dynam
 date: 2021-07-01
 publishDate: 2022-01-02T21:45:02.150187Z
 authors: ["Sen Na", "Mihai Anitescu", "Mladen Kolar"]
-publication_types: ["3"]
+publication_types: ["article"]
 abstract: "We propose a fast temporal decomposition procedure for solving long-horizon nonlinear dynamic programs.
 The core of the procedure is sequential quadratic programming (SQP), with a differentiable exact augmented
 Lagrangian being the merit function. Within each SQP iteration, we solve the Newton system approximately
@@ -15,7 +15,10 @@ stages. Our local convergence rate matches the rate of the recent Schwarz scheme
 scheme has to solve nonlinear subproblems to optimality in each iteration, while we only perform one Newton
 step instead. Numerical experiments validate our theories and demonstrate the superiority of our method."
 featured: false
-publication: "*Technical report*"
+publication:
+  name: "Technical report"
 tags: ["math.OC", "math.DS"]
-url_preprint: https://arxiv.org/abs/2107.11560
+links:
+- type: preprint
+  url: "https://arxiv.org/abs/2107.11560"
 ---

@@ -6,8 +6,7 @@ authors:
 - Katherine Tsai
 - Oluwasanmi Koyejo
 - Mladen Kolar
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: 'Abstract Graphs representing complex systems often share a partial underlying
   structure across domains while retaining individual features. Thus, identifying
   common structures can shed light on the underlying signal, for instance, when applied
@@ -20,7 +19,8 @@ abstract: 'Abstract Graphs representing complex systems often share a partial un
   fit various data generation processes. This article is categorized under: Data:
   Types and Structure > Graph and Network Data Statistical Models > Graphical Models'
 featured: false
-publication: '*WIREs Computational Statistics*'
+publication:
+  name: "WIREs Computational Statistics"
 tags:
 - stat.ME
 - cs.LG
@@ -35,5 +35,7 @@ links:
   url: https://arxiv.org/abs/2110.10281
 - name: URL
   url: https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1582
-doi: 10.1002/wics.1582
+hugoblox:
+  ids:
+    doi: "10.1002/wics.1582"
 ---

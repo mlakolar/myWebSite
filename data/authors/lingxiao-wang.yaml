@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: lingxiao-wang
+name:
+  display: Lingxiao Wang
+  given: Lingxiao
+  family: Wang
+bio: "I am currently a Research Assistant Professor at the Toyota Technological Institute at Chicago.\
+  \ I recevied my Ph.D. in Department of Computer Science at the University of California, Los Angeles,\
+  \ where I was advised by Professor Quanquan Gu. Previously I obtained my MS in Statistics at University\
+  \ of Washington.\n\nMy research interests are broadly in machine learning including privacy-preserving\
+  \ machine learning, optimization, federated learning, deep learning, low-rank matrix recovery, high-dimensional\
+  \ statistics and data mining. \n\n[Personal website](https://lingxiaowang-ai.github.io/)"
+affiliations:
+- name: Toyota Technological Institute
+links:
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=VPyxd6kAAAAJ&hl=en
+user_groups:
+- null

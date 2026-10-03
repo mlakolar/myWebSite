@@ -3,9 +3,11 @@ title: "Minimax Localization of Structural Information in Large Noisy Matrices"
 date: 2011-01-01
 publishDate: 2020-01-27T20:57:22.573268Z
 authors: [mladen-kolar, "Sivaraman Balakrishnan", "Alessandro Rinaldo", "Aarti Singh"]
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 abstract: ""
 featured: false
-publication: "*Advances in Neural Information Processing Systems 24*"
+publication:
+  name: "Advances in Neural Information Processing Systems"
+  volume: "24"
 ---
 

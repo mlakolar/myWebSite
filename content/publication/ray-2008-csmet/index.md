@@ -3,10 +3,13 @@ title: "CSMET: Comparative Genomic Motif Detection via Multi-Resolution Phylogen
 date: 2008-06-01
 publishDate: 2020-01-27T20:57:22.574816Z
 authors: ["Pradipta Ray", "Suyash Shringarpure", mladen-kolar, "Eric P. Xing"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: ""
 featured: false
-publication: "*PLoS Computational Biology*"
-doi: "10.1371/journal.pcbi.1000090"
+publication:
+  name: "PLoS Computational Biology"
+hugoblox:
+  ids:
+    doi: "10.1371/journal.pcbi.1000090"
 ---
 

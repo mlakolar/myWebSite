@@ -1,0 +1,32 @@
+schema: hugoblox/author/v1
+slug: boxiang-lyu
+name:
+  display: Boxiang Lyu
+  given: Boxiang
+  family: Lyu
+role: PhD Student
+bio: |-
+  Boxiang is a PhD student in the Econometrics and Statistics dissertation area at University of Chicago Booth School of Business. Prior to coming to Booth, he obtained a Master of Science in Machine Learning (2019) and a Bachelor of Science in Statistics and Machine Learning (2018) from Carnegie Mellon University.
+
+  [Personal website](https://voices.uchicago.edu/blyu/)
+affiliations:
+- name: University of Chicago Booth School of Business
+links:
+- icon: hero/envelope
+  url: mailto:blyu@chicagobooth.edu
+- icon: brands/github
+  url: https://github.com/ShawnBLYU
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/boxiang-lyu-3206159b/
+interests:
+- optimization
+- machine learning
+education:
+- degree: MS in Machine Learning
+  institution: Carnegie Mellon University
+  year: 2019
+- degree: BS in Statistics and Machine Learning
+  institution: Carnegie Mellon University
+  year: 2018
+user_groups:
+- PhD Students

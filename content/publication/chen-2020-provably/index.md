@@ -34,8 +34,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-11-04T15:10:20.138737Z'
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: Training a classifier under non-convex constraints has gotten increasing
   attention in the machine learning community thanks to its wide range of applications
   such as algorithmic fairness and class-imbalanced classification. However, several
@@ -47,9 +46,14 @@ abstract: Training a classifier under non-convex constraints has gotten increasi
   problems via the project stochastic gradient descent. Our key ingredient is the
   no-regret analysis of online learning for neural networks in the overparameterization
   regime, which may be of independent interest in online learning applications.
-publication: '*Electronic Journal of Statistics 16(2)*'
+publication:
+  name: "Electronic Journal of Statistics"
+  volume: "16"
+  issue: "2"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2012.15274
-doi: 10.1214/22-EJS2036
+hugoblox:
+  ids:
+    doi: "10.1214/22-EJS2036"
 ---

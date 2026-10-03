@@ -34,8 +34,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-11-01T16:31:48.789246Z'
-publication_types:
-- '3'
+publication_types: ["article"]
 abstract: Joint multimodal functional data acquisition, where functional data from
   multiple modes are measured simultaneously from the same subject, has emerged as
   an exciting modern approach enabled by recent engineering breakthroughs in the neurological
@@ -54,7 +53,8 @@ abstract: Joint multimodal functional data acquisition, where functional data fr
   multimodal brain imaging data where the graph indicates functional connectivity
   of the brain. We present simulation and empirical results that support the benefits
   of joint estimation.
-publication: '*Technical report*'
+publication:
+  name: "Technical report"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2210.17237

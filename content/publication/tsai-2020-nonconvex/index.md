@@ -34,10 +34,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-09-04T03:11:27.352909Z'
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: 'We propose a flexible, yet interpretable model for high-dimensional data with time-varying second-order statistics, motivated and applied to functional neuroimaging data. Our approach implements the neuroscientific hypothesis of discrete cognitive processes by factorizing covariances into sparse spatial and smooth temporal components. Although this factorization results in parsimony and domain interpretability, the resulting estimation problem is nonconvex. We design a two-stage optimization scheme with a tailored spectral initialization, combined with iteratively refined alternating projected gradient descent. We prove a linear convergence rate up to a nontrivial statistical error for the proposed descent scheme and establish sample complexity guarantees for the estimator. Empirical results using simulated data and brain imaging data illustrate that our approach outperforms existing baselines.'
-publication: '*Journal of Machine Learning Research*'
+publication:
+  name: "Journal of Machine Learning Research"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2011.05601

@@ -1,0 +1,35 @@
+schema: hugoblox/author/v1
+slug: yuwei-luo
+name:
+  display: Yuwei Luo
+  given: Yuwei
+  family: Luo
+role: MS Student (2019-2020)
+bio: |-
+  Yuwei Luo received his M.S. degree in Statistics at University of Chicago in March 2020. Prior to graduate school, he received B.S.degree in Mathematics at University of Science and Technology of China (USTC) in June 2018. His research interests include reinforcement learning, control, optimization and network analysis. Yuwei is continuing his education as a PhD student at Stanford University.
+
+  [Personal webpage](https://sites.google.com/view/yuweiluo)
+affiliations:
+- name: University of Chicago Department of Statistics
+links:
+- icon: hero/envelope
+  url: mailto:yuweiluo@uchicago.edu
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=Jb8r920AAAAJ
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/yuwei-luo-40b7a11a3/
+interests:
+- Machine Learning
+- Reinforcement Learning
+- Optimization
+- Control and Game Theory
+- Network Analysis
+education:
+- degree: MS in Statistics
+  institution: University of Chicago
+  year: 2020
+- degree: BS in Mathematics
+  institution: University of Science and Technology of China
+  year: 2018
+user_groups:
+- null

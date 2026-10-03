@@ -35,8 +35,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-09-04T02:37:25.407391Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: 'Dynamic mechanism design has garnered significant attention from both computer
   scientists and economists in recent years. By allowing agents to interact with the
   seller over multiple rounds, where agents’ reward functions may change with time
@@ -53,7 +52,8 @@ abstract: 'Dynamic mechanism design has garnered significant attention from both
   and only requires a mild assumption on the coverage of the offline data set. To
   the best of our knowledge, our work provides the first offline RL algorithm for
   dynamic mechanism design without assuming uniform coverage.'
-publication: '*Proceedings of the 39th International Conference on Machine Learning (ICML) 2022*'
+publication:
+  name: "Proceedings of the 39th International Conference on Machine Learning (ICML) 2022"
 links:
 - name: PDF
   url: https://proceedings.mlr.press/v162/lyu22b/lyu22b.pdf

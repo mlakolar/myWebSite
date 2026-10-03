@@ -1,0 +1,23 @@
+schema: hugoblox/author/v1
+slug: miao-li
+name:
+  display: Miao Li
+  given: Miao
+  family: Li
+role: Researcher (2021-2022)
+affiliations:
+- name: University of Chicago, Computational and Applied Math
+links:
+- icon: hero/envelope
+  url: mailto:miaol1@uchicago.edu
+interests:
+- Nonlinear optimization
+education:
+- degree: MS in Computational and Applied Math
+  institution: University of Chicago
+  year: 2021
+- degree: BS in Mathematics
+  institution: University of California, San Diego
+  year: 2019
+user_groups:
+- null

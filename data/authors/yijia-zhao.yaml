@@ -1,0 +1,22 @@
+schema: hugoblox/author/v1
+slug: yijia-zhao
+name:
+  display: Yijia Zhao
+  given: Yijia
+  family: Zhao
+role: MS Student (2019-2020)
+bio: Yijia Zhao received her MS in Statistics at the University of Chicago. Yijia continued her education
+  as a PhD student at University of California, Los Angeles.
+affiliations:
+- {}
+interests:
+- High-dimensional statistics
+education:
+- degree: MS in Statistics
+  institution: University of Chicago
+  year: 2020
+- degree: BS in Pure and Applied Mathematics
+  institution: Tsinghua University
+  year: 2018
+user_groups:
+- null

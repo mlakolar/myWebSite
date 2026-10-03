@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: pedro-cisneros-velarde
+name:
+  display: Pedro Cisneros Velarde
+  given: Pedro Cisneros
+  family: Velarde
+bio: '[Personal website](https://sites.google.com/view/pcisnerosv)'
+affiliations:
+- {}
+links:
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=VvVRo5oAAAAJ&hl=en

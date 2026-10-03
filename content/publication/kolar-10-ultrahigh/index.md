@@ -3,9 +3,10 @@ title: "Ultra-high Dimensional Multiple Output Learning With Simultaneous Orthog
 date: 2010-01-01
 publishDate: 2020-01-27T20:57:22.573950Z
 authors: [mladen-kolar, "Eric P. Xing"]
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 abstract: ""
 featured: false
-publication: "*Proc. of AISTATS*"
+publication:
+  name: "Proc. of AISTATS"
 ---
 

@@ -1,0 +1,27 @@
+schema: hugoblox/author/v1
+slug: yuhang-cai
+name:
+  display: Yuhang Cai
+  given: Yuhang
+  family: Cai
+role: MS Student (2020-2021)
+bio: Prior to graduate school, he received B.S. degree in Mathematics at Peking University. Yuhang continued
+  his education as a PhD student at University of California, Berkeley.
+affiliations:
+- name: University of Chicago, Department of Statistics
+links:
+- icon: hero/envelope
+  url: mailto:willcai754@gmail.com
+interests:
+- Machine Learning
+- Optimal Transport
+- High-dimensional inference
+education:
+- degree: MS in Statistics
+  institution: University of Chicago
+  year: 2021
+- degree: BS in Mathematics
+  institution: Peking University
+  year: 2019
+user_groups:
+- null

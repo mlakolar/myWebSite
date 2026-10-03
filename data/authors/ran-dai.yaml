@@ -1,0 +1,40 @@
+schema: hugoblox/author/v1
+slug: ran-dai
+name:
+  display: Ran Dai
+  given: Ran
+  family: Dai
+role: PhD (2016-2020)
+bio: |-
+  Ran Dai received her PhD in Statistics at the University of Chicago in July 2020. Ran's research interest is in high dimensional inference, nonparametric modeling, and shape-constrained regressions, multiple testing, and causal inference. In particular, Ran is interested in developing computationally efficient algorithms for these problems with statistical convergence guarantee and valid inference; and applying these methods towards real datasets in the areas of drug development, HIV mutation study and cancer study.
+
+  [Personal Website](https://stat.uchicago.edu/people/profile/ran-dai/)
+affiliations:
+- name: University of Chicago, Department of Statistics
+links:
+- icon: hero/envelope
+  url: mailto:randai@uchicago.edu
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?hl=en&user=9FHRJwkAAAAJ&view_op=list_works&sortby=pubdate
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/randai/
+interests:
+- High-dimensional statistical inference
+- High-dimensional shape constrained methods
+- Machine learning
+education:
+- degree: PhD in Statistics
+  institution: University of Chicago
+  year: 2020
+- degree: MS in Statistics
+  institution: University of Chicago
+  year: 2016
+- degree: PhD in Medicinal and Pharmaceutical Chemistry
+  institution: University of Minnesota Twin Cities
+  year: 2015
+- degree: BS in Pharmaceutical Sciences
+  institution: Peking University
+  year: 2009
+user_groups:
+- Alumni
+graduation_year: 2020

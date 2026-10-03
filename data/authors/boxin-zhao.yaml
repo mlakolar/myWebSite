@@ -1,0 +1,37 @@
+schema: hugoblox/author/v1
+slug: boxin-zhao
+name:
+  display: Boxin Zhao
+  given: Boxin
+  family: Zhao
+role: PhD student
+bio: |-
+  Boxin Zhao is a PhD student in Econometrics and Statistics at University of Chicago,
+  Booth School of Business. His research interests include probabilistic graphical models,
+  functional data analysis and distributed learning, with a focus on developing novel
+  methodologies with both practical applications and theoretical guarantees.
+affiliations:
+- name: University of Chicago Booth School of Business
+links:
+- icon: hero/envelope
+  url: mailto:boxinz@uchicago.edu
+- icon: brands/github
+  url: https://github.com/boxinz17
+interests:
+- Machine learning
+- Probabilistic graphical models
+- Functional data analysis
+- Distributed learning
+- High-dimensional statistics
+education:
+- degree: PhD in Econometrics and Statistics
+  institution: University of Chicago Booth School of Business
+  year: 2025
+- degree: MS in Statistics
+  institution: University of Chicago
+  year: 2020
+- degree: BS in Statistics
+  institution: Nankai University
+  year: 2018
+user_groups:
+- PhD Students

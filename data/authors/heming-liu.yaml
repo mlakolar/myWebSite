@@ -1,0 +1,26 @@
+schema: hugoblox/author/v1
+slug: heming-liu
+name:
+  display: Heming Liu
+  given: Heming
+  family: Liu
+role: MS Student (2020-2022)
+affiliations:
+- name: University of Chicago, Department of Statistics
+links:
+- icon: hero/envelope
+  url: mailto:heming310@uchicago.edu
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/heming-liu-5aa7731a8/
+interests:
+- High-dimensional estimation
+- Graphical models
+education:
+- degree: MS in Statistics
+  institution: University of Chicago
+  year: 2022
+- degree: BS in Mathematics and Statistics
+  institution: Penn State University
+  year: 2020
+user_groups:
+- null

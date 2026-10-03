@@ -1,0 +1,26 @@
+{{/* Citation view (site override): linked title, then authors, then venue and links —
+     matching the layout used on this site before the Hugo Blox migration. */}}
+{{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+{{ $pub := partial "functions/resolve_publication.html" $item }}
+{{ $top_award := "" }}
+{{ with $item.Params.awards }}{{ $top_award = index . 0 }}{{ end }}
+
+<div class="pub-list-item view-citation mb-4">
+  <a href="{{ $item.RelPermalink }}" class="text-lg text-primary-700 dark:text-primary-400 hover:underline">{{ $item.Title }}</a>
+  {{ with $top_award }}
+    <span class="ml-1">{{ partial "components/award_badge.html" (dict "award" . "page" $item "variant" "inline") }}</span>
+  {{ end }}
+  <div class="text-sm text-gray-600 dark:text-gray-400">
+    <span class="article-metadata li-cite-author">{{ partial "page_metadata_authors" $item }}</span>
+  </div>
+  {{ with $pub.display_short }}
+  <div class="text-sm text-gray-700 dark:text-gray-300">{{ . | markdownify }}</div>
+  {{ end }}
+
+  {{ if $has_attachments }}
+  <div class="flex flex-wrap space-x-3">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+</div>
