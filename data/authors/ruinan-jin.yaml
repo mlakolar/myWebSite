@@ -5,6 +5,9 @@ name:
   given: Ruinan
   family: Jin
 role: Post-doc
+affiliations:
+- name: Mohamed bin Zayed University of Artificial Intelligence
+  url: https://mbzuai.ac.ae/
 user_groups:
 - Researchers
 links:
