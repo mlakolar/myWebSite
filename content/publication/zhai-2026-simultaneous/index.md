@@ -8,7 +8,7 @@ publication:
   volume: "72"
   issue: "6"
   pages: "4246\u20134296"
-featured: false
+featured: true
 hugoblox:
   ids:
     arxiv: "2604.16219"

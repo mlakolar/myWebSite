@@ -5,7 +5,7 @@ publishDate: 2020-01-27T20:57:22.574646Z
 authors: [mladen-kolar, "Le Song", "Amr Ahmed", "Eric P. Xing"]
 publication_types: ["article-journal"]
 abstract: ""
-featured: false
+featured: true
 publication:
   name: "Ann. Appl. Stat"
 ---

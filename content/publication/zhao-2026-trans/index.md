@@ -5,7 +5,7 @@ authors: ["Boxin Zhao", "Cong Ma", "Mladen Kolar"]
 publication_types: ["article-journal"]
 publication:
   name: "Journal of the American Statistical Association"
-featured: false
+featured: true
 hugoblox:
   ids:
     arxiv: "2411.15624"

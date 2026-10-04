@@ -5,5 +5,5 @@ authors: ["Zhao Lyu", "Mladen Kolar", "Bryon Aragam"]
 publication_types: ["paper-conference"]
 publication:
   name: "Advances in Neural Information Processing Systems (NeurIPS)"
-featured: false
+featured: true
 ---

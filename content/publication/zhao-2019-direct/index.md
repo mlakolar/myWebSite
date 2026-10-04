@@ -5,7 +5,7 @@ publishDate: 2020-01-27T20:57:22.567337Z
 authors: [boxin-zhao, sam-wang, mladen-kolar]
 publication_types: ["chapter"]
 abstract: ""
-featured: true
+featured: false
 publication:
   name: "Advances in Neural Information Processing Systems"
   volume: "32"
