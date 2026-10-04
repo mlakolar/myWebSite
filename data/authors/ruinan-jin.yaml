@@ -7,3 +7,6 @@ name:
 role: Post-doc
 user_groups:
 - Researchers
+links:
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=Xi2dXzkAAAAJ
