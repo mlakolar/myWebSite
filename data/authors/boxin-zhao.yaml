@@ -19,6 +19,8 @@ links:
   url: mailto:boxinz@uchicago.edu
 - icon: brands/github
   url: https://github.com/boxinz17
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/boxin-zhao-733a31a3
 interests:
 - Machine learning
 - Probabilistic graphical models
